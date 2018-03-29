@@ -30,19 +30,25 @@
 	"Wallpapers":
         [			
             {
-				"author": "vscoteur",
-				"url": "https://dl.dropboxusercontent.com/s/pkuebz2xw8aozcc/Photo102017_155600.jpg",
-				"thumbUrl": "https://dl.dropboxusercontent.com/s/pkuebz2xw8aozcc/Photo102017_155600.jpg",
-				"name": "Violet Flowers",
+		"author": "vscoteur",
+		"url": "https://dl.dropboxusercontent.com/s/pkuebz2xw8aozcc/Photo102017_155600.jpg",
+		"thumbUrl": "https://dl.dropboxusercontent.com/s/pkuebz2xw8aozcc/Photo102017_155600.jpg",
+		"name": "Violet Flowers",
                 "category": "nature"
-			}, 
-
-            {
-				"author": "vscoteur",
-				"url": "https://preview.ibb.co/gqM19n/Photo_12_8_17_18_11_07.jpg",
-				"thumbUrl": "https://preview.ibb.co/gqM19n/Photo_12_8_17_18_11_07.jpg",
-				"name": "Magical Carousel",
+		},
+		{
+		"author": "vscoteur",
+		"url": "https://dl.dropboxusercontent.com/s/2aivtsnxbcfprt9/Photo_10_14_17_17_03_01.jpg",
+		"thumbUrl": "https://dl.dropboxusercontent.com/s/2aivtsnxbcfprt9/Photo_10_14_17_17_03_01.jpg",
+		"name": "Beautiful blend of trees,house and sky",
                 "category": "city,architecture"
-			}
+		}, 
+		{
+		"author": "vscoteur",
+		"url": "https://dl.dropboxusercontent.com/s/7itrbs45ioe74rc/Photo_12_8_17_18_11_07.jpg",
+		"thumbUrl": "https://dl.dropboxusercontent.com/s/7itrbs45ioe74rc/Photo_12_8_17_18_11_07.jpg",
+		"name": "Magical Carousel",
+                "category": "city,architecture"
+		}
 		]
 }
