@@ -1,14 +1,17 @@
 {
     "Categories": 
-        [
-            {
+	[
+		{
                 "name": "Architecture"
             },
-            {
+		{
                 "name": "City"
             },
-            {
+		{
                 "name": "Nature"
+            },
+		{
+                "name": "Landscape"
             }
         ],
     
@@ -27,7 +30,14 @@
 		"thumbUrl": "https://dl.dropboxusercontent.com/s/2aivtsnxbcfprt9/Photo_10_14_17_17_03_01.jpg",
 		"name": "Beautiful blend of trees,house and sky",
                 "category": "city,architecture"
-		}, 
+		},
+		{
+		"author": "vscoteur",
+		"url": "https://dl.dropboxusercontent.com/s/cu8z7dpgnwn8uyk/Photo12-15-17_190535.jpg",
+		"thumbUrl": "https://dl.dropboxusercontent.com/s/cu8z7dpgnwn8uyk/Photo12-15-17_190535.jpg",
+		"name": "Inside theatre",
+                "category": "architecture"
+		},
 		{
 		"author": "vscoteur",
 		"url": "https://dl.dropboxusercontent.com/s/7itrbs45ioe74rc/Photo_12_8_17_18_11_07.jpg",
