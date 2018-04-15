@@ -11,6 +11,9 @@
                 "name": "Nature"
             },
 		{
+                "name": "Flower"
+            },
+		{
                 "name": "Landscape"
             }
         ],
@@ -22,7 +25,7 @@
 		"url": "https://dl.dropboxusercontent.com/s/pkuebz2xw8aozcc/Photo102017_155600.jpg",
 		"thumbUrl": "https://dl.dropboxusercontent.com/s/pkuebz2xw8aozcc/Photo102017_155600.jpg",
 		"name": "Violet Flowers",
-                "category": "nature"
+                "category": "nature,flower"
 		},
 		{
 		"author": "vscoteur",
@@ -65,6 +68,13 @@
 		"thumbUrl": "https://dl.dropboxusercontent.com/s/7itrbs45ioe74rc/Photo_12_8_17_18_11_07.jpg",
 		"name": "Magical Carousel",
                 "category": "city,architecture"
+		},
+		{
+		"author": "vscoteur",
+		"url": "https://dl.dropboxusercontent.com/s/y7o4f4ipnvmuzr6/Photo11-5-17_15-05-18.jpg",
+		"thumbUrl": "https://dl.dropboxusercontent.com/s/y7o4f4ipnvmuzr6/Photo11-5-17_15-05-18.jpg",
+		"name": "Yellow",
+                "category": "nature,flower"
 		},
 		{
 		"author": "vscoteur",
